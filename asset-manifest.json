@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/asim571/TextUtils/static/css/main.e6c13ad2.css",
+    "main.js": "//github.com/asim571/TextUtils/static/js/main.53bca3ee.js",
+    "static/js/592.7f72a991.chunk.js": "//github.com/asim571/TextUtils/static/js/592.7f72a991.chunk.js",
+    "index.html": "//github.com/asim571/TextUtils/index.html",
+    "main.e6c13ad2.css.map": "//github.com/asim571/TextUtils/static/css/main.e6c13ad2.css.map",
+    "main.53bca3ee.js.map": "//github.com/asim571/TextUtils/static/js/main.53bca3ee.js.map",
+    "592.7f72a991.chunk.js.map": "//github.com/asim571/TextUtils/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53bca3ee.js"
+  ]
+}
